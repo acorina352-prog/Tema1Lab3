@@ -1,0 +1,122 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
+  <diagram name="Pagină-1" id="xvT6uc0oSJ39NvOkCB4z">
+    <mxGraphModel dx="946" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="uEqYPuacaC1ea08iiFbm-0" />
+        <mxCell id="uEqYPuacaC1ea08iiFbm-1" parent="uEqYPuacaC1ea08iiFbm-0" />
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-0" parent="uEqYPuacaC1ea08iiFbm-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="110" width="60" x="110" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-1" edge="1" parent="uEqYPuacaC1ea08iiFbm-1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="120" as="sourcePoint" />
+            <mxPoint x="270" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-5" edge="1" parent="uEqYPuacaC1ea08iiFbm-1" source="PcoIIZ_QltR6l1umhuIK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-2" parent="uEqYPuacaC1ea08iiFbm-1" style="ellipse;whiteSpace=wrap;html=1;" value="Navigheaza&amp;nbsp;&lt;div&gt;catalog produse&lt;/div&gt;" vertex="1">
+          <mxGeometry height="85" width="150" x="270" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-3" parent="uEqYPuacaC1ea08iiFbm-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="120" width="60" x="680" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-4" edge="1" parent="uEqYPuacaC1ea08iiFbm-1" style="endArrow=classic;html=1;rounded=0;" target="PcoIIZ_QltR6l1umhuIK-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="345" y="170" />
+              <mxPoint x="345" y="190" />
+            </Array>
+            <mxPoint x="344.5" y="160" as="sourcePoint" />
+            <mxPoint x="344.5" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-9" edge="1" parent="uEqYPuacaC1ea08iiFbm-1" source="PcoIIZ_QltR6l1umhuIK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PcoIIZ_QltR6l1umhuIK-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-6" parent="uEqYPuacaC1ea08iiFbm-1" style="ellipse;whiteSpace=wrap;html=1;" value="Adauga in cos" vertex="1">
+          <mxGeometry height="90" width="150" x="270" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-7" parent="uEqYPuacaC1ea08iiFbm-1" style="ellipse;whiteSpace=wrap;html=1;" value="Plaseaza comanda" vertex="1">
+          <mxGeometry height="100" width="150" x="270" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-11" parent="uEqYPuacaC1ea08iiFbm-1" style="ellipse;whiteSpace=wrap;html=1;" value="Confirma Plata&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="130" x="280" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-12" edge="1" parent="uEqYPuacaC1ea08iiFbm-1" source="PcoIIZ_QltR6l1umhuIK-7" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PcoIIZ_QltR6l1umhuIK-11" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="290" y="500" as="sourcePoint" />
+            <mxPoint x="390" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-13" parent="uEqYPuacaC1ea08iiFbm-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="100" width="60" x="70" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-17" parent="uEqYPuacaC1ea08iiFbm-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Curier&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="70" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-18" parent="uEqYPuacaC1ea08iiFbm-1" style="rounded=1;whiteSpace=wrap;html=1;" value="EcommerceSystem&lt;div&gt;[software system]&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="250" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-19" edge="1" parent="uEqYPuacaC1ea08iiFbm-1" style="endArrow=classic;html=1;rounded=0;entryX=-0.022;entryY=0.413;entryDx=0;entryDy=0;entryPerimeter=0;" target="PcoIIZ_QltR6l1umhuIK-18" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="703" as="sourcePoint" />
+            <mxPoint x="165" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-20" edge="1" parent="uEqYPuacaC1ea08iiFbm-1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="PcoIIZ_QltR6l1umhuIK-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="670" as="sourcePoint" />
+            <mxPoint x="380" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-22" edge="1" parent="uEqYPuacaC1ea08iiFbm-1" source="PcoIIZ_QltR6l1umhuIK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="PcoIIZ_QltR6l1umhuIK-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-28" edge="1" parent="uEqYPuacaC1ea08iiFbm-1" source="PcoIIZ_QltR6l1umhuIK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="PcoIIZ_QltR6l1umhuIK-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-29" edge="1" parent="uEqYPuacaC1ea08iiFbm-1" source="PcoIIZ_QltR6l1umhuIK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="PcoIIZ_QltR6l1umhuIK-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-21" parent="uEqYPuacaC1ea08iiFbm-1" style="ellipse;whiteSpace=wrap;html=1;" value="Proceseaza comenzile" vertex="1">
+          <mxGeometry height="80" width="140" x="510" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-27" edge="1" parent="uEqYPuacaC1ea08iiFbm-1" source="PcoIIZ_QltR6l1umhuIK-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="PcoIIZ_QltR6l1umhuIK-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-23" parent="uEqYPuacaC1ea08iiFbm-1" style="ellipse;whiteSpace=wrap;html=1;" value="Pregateste livrarea" vertex="1">
+          <mxGeometry height="80" width="120" x="650" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-30" edge="1" parent="uEqYPuacaC1ea08iiFbm-1" source="PcoIIZ_QltR6l1umhuIK-21" style="endArrow=classic;html=1;rounded=0;exitX=0.336;exitY=0.994;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="PcoIIZ_QltR6l1umhuIK-18" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="610" as="sourcePoint" />
+            <mxPoint x="530" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-31" edge="1" parent="uEqYPuacaC1ea08iiFbm-1" style="endArrow=classic;html=1;rounded=0;entryX=0.318;entryY=0.094;entryDx=0;entryDy=0;entryPerimeter=0;" target="PcoIIZ_QltR6l1umhuIK-21" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="410" y="290" as="sourcePoint" />
+            <mxPoint x="460" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-32" edge="1" parent="uEqYPuacaC1ea08iiFbm-1" source="PcoIIZ_QltR6l1umhuIK-23" style="endArrow=none;html=1;rounded=0;exitX=0.579;exitY=-0.019;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="720" y="580" as="sourcePoint" />
+            <mxPoint x="710" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-33" parent="uEqYPuacaC1ea08iiFbm-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Operatorul magazinului" vertex="1">
+          <mxGeometry height="30" width="150" x="635" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="PcoIIZ_QltR6l1umhuIK-34" parent="uEqYPuacaC1ea08iiFbm-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Client/ Cumparator" vertex="1">
+          <mxGeometry height="30" width="120" x="80" y="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

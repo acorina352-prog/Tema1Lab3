@@ -1,0 +1,120 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
+  <diagram name="Pagină-1" id="xvT6uc0oSJ39NvOkCB4z">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-1" parent="1" style="shape=or;whiteSpace=wrap;html=1;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="120" width="100" x="105" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="130" y="12.86" as="geometry" />
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-3" parent="1" style="shape=or;whiteSpace=wrap;html=1;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="126.25" width="104.31" x="554.61" y="52.1" as="geometry" />
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="52.5" width="52.5" x="580.63" y="10.36" as="geometry" />
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-5" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="wSnMRuKtnXpA_Z7wJKW2-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="155" y="240" as="sourcePoint" />
+            <mxPoint x="210" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-6" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="606" y="240" as="sourcePoint" />
+            <mxPoint x="606.38" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="70" width="200" x="60" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="65" width="220" x="490" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-10" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="610" y="360" as="sourcePoint" />
+            <mxPoint x="610" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-11" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="360" as="sourcePoint" />
+            <mxPoint x="160" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-12" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="360" as="sourcePoint" />
+            <mxPoint x="610" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="wSnMRuKtnXpA_Z7wJKW2-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="389" y="360" as="sourcePoint" />
+            <mxPoint x="390" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ProductStore" vertex="1">
+          <mxGeometry height="70" width="140" x="320" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="wSnMRuKtnXpA_Z7wJKW2-16" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="389" y="490" as="sourcePoint" />
+            <mxPoint x="389" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="EcommerceSystem&lt;div&gt;[Software system]&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="320" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="PaymentSystem&lt;div&gt;[Software System]&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="320" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wSnMRuKtnXpA_Z7wJKW2-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="620" as="sourcePoint" />
+            <mxPoint x="440" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Face parte din Sistem&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="400" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Trimite plati/ Foloseste serivcii de plata" vertex="1">
+          <mxGeometry height="30" width="130" x="410.32" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Operator&lt;div&gt;[person]&lt;/div&gt;&lt;div&gt;Administreaza produse, stocuri si discounturi&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="558.92" y="100.23" as="geometry" />
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Client&lt;div&gt;[person]&lt;/div&gt;&lt;div&gt;Cumpara produse si plaseaza comenzi&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="100" y="100.23" as="geometry" />
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Foloseste aplicatie pentru a cumpara produse" vertex="1">
+          <mxGeometry height="30" width="110" x="160" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Foloseste aplicatia pentru a administra catalogul" vertex="1">
+          <mxGeometry height="30" width="120" x="610" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="EcommerceConsoleApplication&lt;div&gt;&quot;Pentru clienti&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="65" x="125" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-27" edge="1" parent="1" source="wSnMRuKtnXpA_Z7wJKW2-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="wSnMRuKtnXpA_Z7wJKW2-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AdminConsoleApplication&lt;div&gt;&quot;Pentru Operatori&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="563.9200000000001" y="257.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Foloseste aplicatie a administra catalogul" vertex="1">
+          <mxGeometry height="30" width="140" x="90" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="wSnMRuKtnXpA_Z7wJKW2-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Citeste si scrie produse/discounturi" vertex="1">
+          <mxGeometry height="30" width="59.37" x="580.63" y="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
